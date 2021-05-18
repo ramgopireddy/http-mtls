@@ -19,7 +19,7 @@ Deploy the service mesh operator
 `oc apply -f service-mesh.yml`
 
 
-## Ingress
+## Ingress(Pass-through)
 
 
 Determine hostname
