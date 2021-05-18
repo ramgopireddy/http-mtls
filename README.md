@@ -25,7 +25,7 @@ Deploy the service mesh operator
 Determine hostname
 
 
-Cluster url e.g. https://console-openshift-console.apps.cluster-6c24.6c24.example.opentlc.com/
+Cluster url e.g. https://console-openshift-console.apps.cluster-4314.4314.sandbox1764.opentlc.com/
 
 route will be
 
